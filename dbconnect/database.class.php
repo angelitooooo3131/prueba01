@@ -1,6 +1,6 @@
 <?php
 class DataBase{
-	private $BaseDatos = 'clientes111';
+	private $BaseDatos = 'clientes2021';
 	private $Servidor = 'localhost';
 	private $Usuario = 'root';
 	private $Clave = '';
